@@ -6,6 +6,7 @@
       <router-link to="/table" tag="li" exact><a>Table</a></router-link>
       <router-link to="/popover" tag="li" exact><a>Popover</a></router-link>
       <router-link to="/switch" tag="li" exact><a>Switch</a></router-link>
+      <router-link to="/fetch" tag="li" exact><a>Fetch</a></router-link>
     </AdminMenu>
 
     <div id="wpcontent">

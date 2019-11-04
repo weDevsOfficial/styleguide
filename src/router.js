@@ -5,6 +5,7 @@ import Buttons from './views/Buttons.vue'
 import Table from './views/Table.vue'
 import Popover from './views/Popover.vue'
 import Switch from './views/Switch.vue'
+import Fetch from './views/Fetch.vue'
 
 Vue.use(Router)
 
@@ -18,5 +19,6 @@ export default new Router({
     { path: '/table', name: 'table', component: Table },
     { path: '/popover', name: 'popover', component: Popover },
     { path: '/switch', name: 'switch', component: Switch },
+    { path: '/fetch', name: 'fetch', component: Fetch },
   ]
 })
