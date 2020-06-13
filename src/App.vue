@@ -6,6 +6,7 @@
       <router-link to="/table" tag="li" exact><a>Table</a></router-link>
       <router-link to="/popover" tag="li" exact><a>Popover</a></router-link>
       <router-link to="/switch" tag="li" exact><a>Switch</a></router-link>
+      <router-link to="/date-time-picker" tag="li" exact><a>Date Time Picker</a></router-link>
     </AdminMenu>
 
     <div id="wpcontent">

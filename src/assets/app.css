@@ -1,0 +1,12 @@
+@import '../assets/wp.css';
+@import '~flatpickr/dist/flatpickr.css';
+/*Uncomment your prefered theme from the list below:*/
+
+/*@import '~flatpickr/dist/themes/airbnb.css';*/
+/*@import '~flatpickr/dist/themes/confetti.css';*/
+/*@import '~flatpickr/dist/themes/dark.css';*/
+/*@import '~flatpickr/dist/themes/light.css';*/
+/*@import '~flatpickr/dist/themes/material_blue.css';*/
+/*@import '~flatpickr/dist/themes/material_green.css';*/
+/*@import '~flatpickr/dist/themes/material_orange.css';*/
+/*@import '~flatpickr/dist/themes/material_red.css';*/
